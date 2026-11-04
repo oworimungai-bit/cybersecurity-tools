@@ -14,4 +14,4 @@ g++ password-auditor.cpp -o auditor
 ./auditor
 
 ## Author
-Stacy Owori - Aspiring Cybersecurity Analyst
+Mungai Barasa Owori - Professional Builder | Cybersecurity Tools Developer
